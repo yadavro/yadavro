@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1e03c669-2710-4c3c-82d5-e107c31e1c49" width="100%" />
+<img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1e03c669-2710-4c3c-82d5-e107c31e1c49](https://raw.githubusercontent.com/%3Cuser%3E/%3Crepo%3E/%3Cbranch%3E/path/to/file.gif)" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | Distributed Systems</h3>
